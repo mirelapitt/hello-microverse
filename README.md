@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This a project that is part of the activity "Set up a 'Hello Microverse' project".
+> This is a project that is part of the activity "Set up a 'Hello Microverse' project".
 
 
 ## Built With
